@@ -233,9 +233,54 @@
         "chef_name": "Carlos Rodriguez",
         "experience": "12 years",
         "recipes": [
-            "Enchiladas",
-            "Paella",
-            "Churros"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Taco Salad",
+                "recipe_picture": "https://example.com/taco-salad.jpg",
+                "recipe_info": "A delicious and filling salad made with seasoned ground beef, lettuce, tomatoes, cheese, and tortilla chips.",
+                "ordered": 1970,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Spaghetti Carbonara",
+                "recipe_picture": "https://example.com/spaghetti-carbonara.jpg",
+                "recipe_info": "An indulgent pasta dish made with bacon, eggs, and Parmesan cheese.",
+                "ordered": 2240,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Greek Salad",
+                "recipe_picture": "https://example.com/greek-salad.jpg",
+                "recipe_info": "A refreshing salad made with cucumbers, tomatoes, olives, feta cheese, and a tangy dressing.",
+                "ordered": 2140,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Chicken Tikka Masala",
+                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
+                "recipe_info": "A popular Indian dish made with marinated chicken in a creamy tomato-based sauce, served over rice.",
+                "ordered": 2360,
+                "ratings": 4.6
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Vegan Pad Thai",
+                "recipe_picture": "https://example.com/vegan-pad-thai.jpg",
+                "recipe_info": "A flavorful and healthy vegan version of the classic Thai dish made with rice noodles, tofu, vegetables, and peanuts.",
+                "ordered": 1500,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Beef Tacos",
+                "recipe_picture": "https://example.com/beef-tacos.jpg",
+                "recipe_info": "A quick and easy dinner made with seasoned ground beef, taco shells, and your favorite toppings.",
+                "ordered": 2300,
+                "ratings": 4.5
+            }
         ],
         "likes": 6000
     },
@@ -245,9 +290,54 @@
         "chef_name": "Sophie Davis",
         "experience": "5 years",
         "recipes": [
-            "Salmon Quinoa Bowl",
-            "Vegan Chocolate Mousse",
-            "Cauliflower Fried Rice"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Stir-Fried Vegetables",
+                "recipe_picture": "https://example.com/stir-fry-vegetables.jpg",
+                "recipe_info": "A simple and healthy dish with an assortment of colorful vegetables.",
+                "ordered": 1543,
+                "ratings": 4.3
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "BBQ Ribs",
+                "recipe_picture": "https://example.com/bbq-ribs.jpg",
+                "recipe_info": "Fall-off-the-bone tender ribs with a smoky BBQ sauce.",
+                "ordered": 2170,
+                "ratings": 4.7
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Spinach and Feta Stuffed Chicken",
+                "recipe_picture": "https://example.com/stuffed-chicken.jpg",
+                "recipe_info": "Tender and juicy chicken breasts stuffed with spinach and feta cheese.",
+                "ordered": 2140,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Beef Stroganoff",
+                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_info": "Tender strips of beef in a creamy mushroom sauce served over egg noodles.",
+                "ordered": 2240,
+                "ratings": 4.8
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Lemon Garlic Shrimp Pasta",
+                "recipe_picture": "https://example.com/shrimp-pasta.jpg",
+                "recipe_info": "Garlicky shrimp and tender pasta tossed in a lemon cream sauce.",
+                "ordered": 1680,
+                "ratings": 4.6
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Mushroom Risotto",
+                "recipe_picture": "https://example.com/mushroom-risotto.jpg",
+                "recipe_info": "Creamy and comforting risotto with sautéed mushrooms.",
+                "ordered": 1570,
+                "ratings": 4.5
+            }
         ],
         "likes": 3000
     }

@@ -8,48 +8,150 @@
             {
                 "recipe_id": 1,
                 "recipe_name": "Spaghetti Bolognese",
-                "recipe_picture": "https://example.com/spaghetti-bolognese.jpg",
+                "recipe_picture": "https://www.slimmingeats.com/blog/wp-content/uploads/2010/04/spaghetti-bolognese-36.jpg",
                 "recipe_info": "A classic Italian pasta dish with a meaty tomato sauce.",
+                "ingredients": [
+                    "1 pound (450 g) spaghetti",
+                    "2 tablespoons olive oil",
+                    "1 onion chopped",
+                    "2 garlic cloves minced",
+                    "1 pound (450 g) ground beef",
+                    "1 can (28 ounces / 800 g) diced tomatoes",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried basil",
+                    "1 teaspoon dried oregano",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and pepper",
+                    "Freshly grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "Cook the spaghetti according to package directions until al dente. Drain and set aside.",
+                    "Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened and fragrant, about 5 minutes.",
+                    "Add the ground beef to the skillet and cook until browned, breaking up any clumps with a spoon.",
+                    "Stir in the diced tomatoes, tomato paste, basil, oregano, red pepper flakes, salt, and pepper. Bring to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+                    "Serve the spaghetti topped with the Bolognese sauce and freshly grated Parmesan cheese. Enjoy!"
+                ],
                 "ordered": 1436,
                 "ratings": 4.6
             },
             {
                 "recipe_id": 2,
                 "recipe_name": "Chicken Tikka Masala",
-                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
+                "recipe_picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                 "recipe_info": "A creamy and flavorful Indian curry dish with tender chicken.",
-                "ordered": 1250,
+                "ingredients": [
+                    "1 lb (450 g) boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1/2 cup (120 g) plain yogurt & 1/4 cup (60 ml) heavy cream",
+                    "2 tbsp (30 g) butter & 1 tbsp (15 ml) vegetable oil",
+                    "1 onion, finely chopped, 2 cloves garlic, minced & 1 tbsp (7 g) garam masala",
+                    "1 tsp (5 g) each of ground turmeric, cumin, and paprika",
+                    "1/2 tsp (2.5 g) cayenne pepper & Salt and pepper, to taste",
+                    "Fresh cilantro leaves, chopped, for garnish",
+                    "Cooked basmati rice, for serving"
+                ],
+                "cooking_method": [
+                    "Marinate chicken in yogurt, cream, and half of the spices for at least 30 mins.",
+                    "Sauté onion, garlic, and remaining spices in butter and oil.",
+                    "Add chicken to the skillet and cook until browned on all sides.",
+                    "Pour in any remaining marinade, along with 1 cup (240 ml) of water.",
+                    "Let it simmer until chicken is cooked through and the sauce has thickened, about 20 minutes.",
+                    "Season with salt and pepper to taste. Serve over cooked basmati rice, garnished with cilantro. Enjoy!"
+                ],
                 "ratings": 4.3
             },
             {
                 "recipe_id": 3,
                 "recipe_name": "Beef Stroganoff",
-                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_picture": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
                 "recipe_info": "A hearty Russian dish with tender beef, mushrooms, and sour cream.",
+                "ingredients": [
+                    "1 lb (450 g) beef sirloin, cut into thin strips",
+                    "2 tbsp (30 g) butter & 1 onion, finely chopped",
+                    "2 cloves garlic, minced",
+                    "8 oz (227 g) sliced mushrooms",
+                    "1 cup (240 ml) beef broth",
+                    "1/4 cup (60 ml) sour cream",
+                    "2 tbsp (30 ml) Worcestershire sauce"
+                ],
+                "cooking_method": [
+                    "Brown beef strips in butter, then remove from skillet.",
+                    "Sauté onion and garlic, then add mushrooms and cook.",
+                    "Whisk beef broth, sour cream, and Worcestershire sauce together in skillet.",
+                    "Add beef back in and simmer until sauce thickens and beef is cooked.",
+                    "Serve over cooked egg noodles and garnish with parsley. Enjoy!"
+                ],
                 "ordered": 1368,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Spinach and Feta Stuffed Chicken",
-                "recipe_picture": "https://example.com/spinach-feta-stuffed-chicken.jpg",
+                "recipe_picture": "https://www.eatingwell.com/thmb/lAEwtQROBY8pEVjuip5Q-eSfQ3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1501p130-spinach-feta-stuffed-chicken-breasts-8030825-66b09a00be4340c6a6af32fda656319c.jpg",
                 "recipe_info": "A delicious and healthy stuffed chicken breast recipe with spinach and feta cheese.",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup crumbled feta cheese",
+                    "1/2 cup chopped frozen spinach",
+                    "1/4 cup olive oil",
+                    "Salt and pepper",
+                    "Toothpicks"
+                ],
+                "cooking_method": [
+                    "Mix feta cheese and spinach.",
+                    "Butterfly chicken breasts and stuff with mixture, secure with toothpicks.",
+                    "Brown chicken in olive oil in a skillet.",
+                    "Bake in oven until cooked through.",
+                    "Remove toothpicks and serve hot. Enjoy!"
+                ],
                 "ordered": 1500,
                 "ratings": 4.8
             },
             {
                 "recipe_id": 5,
                 "recipe_name": "Chocolate Chip Cookies",
-                "recipe_picture": "https://example.com/chocolate-chip-cookies.jpg",
+                "recipe_picture": "https://www.budgetbytes.com/wp-content/uploads/2022/12/Chocolate-Chip-Cookies-close.jpg",
                 "recipe_info": "A classic and irresistible dessert with soft and chewy chocolate chip cookies.",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Baking soda & Salt",
+                    "Unsalted butte",
+                    "Granulated sugar",
+                    "Eggs & Vanilla extract",
+                    "Semisweet chocolate chips"
+                ],
+                "cooking_method": [
+                    "Mix dry ingredients in a bowl.",
+                    "Cream butter and sugar, add eggs and vanilla.",
+                    "Gradually stir in dry ingredients.",
+                    "Fold in chocolate chips.",
+                    "Drop spoonfuls of dough onto baking sheet.",
+                    "Bake until lightly golden brown.",
+                    "Cool on baking sheet for 5 mins, then transfer to wire rack to cool completely. Enjoy!"
+                ],
                 "ordered": 1200,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 6,
                 "recipe_name": "Mushroom Risotto",
-                "recipe_picture": "https://example.com/mushroom-risotto.jpg",
+                "recipe_picture": "https://www.seriouseats.com/thmb/_Bm7MuoZztRNzPjQv2W7ACWC7OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220217-pressure-cooker-mushroom-risotto-mariel-delacruz-082-cd5cc0b0b13f4239aeab86d88df6a1b0.jpg",
                 "recipe_info": "A creamy and savory Italian rice dish with mushrooms and parmesan cheese.",
+                "ingredients": [
+                    "White wine",
+                    "Chicken or vegetable broth",
+                    "Parmesan cheese",
+                    "Unsalted butter",
+                    "Salt and black pepper"
+                ],
+                "cooking_method": [
+                    "Simmer broth in a saucepan.",
+                    "Cook onion and mushrooms in a pot.",
+                    "Add Arborio rice and coat with oil.",
+                    "Add wine and broth, stirring until absorbed.",
+                    "Repeat until rice is tender and creamy.",
+                    "Remove from heat and stir in cheese and butter.",
+                    "Season with salt and pepper. Enjoy!"
+                ],
                 "ordered": 1051,
                 "ratings": 4.5
             }

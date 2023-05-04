@@ -119,9 +119,54 @@
         "chef_name": "David Lee",
         "experience": "10 years",
         "recipes": [
-            "Pad Thai",
-            "Pesto Pasta",
-            "Cheesecake"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Chicken Tikka Masala",
+                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
+                "recipe_info": "A popular Indian dish made with marinated chicken cooked in a creamy tomato-based sauce.",
+                "ordered": 3270,
+                "ratings": 4.8
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+                "recipe_picture": "https://example.com/stuffed-chicken-breast.jpg",
+                "recipe_info": "A healthy and flavorful chicken dish stuffed with spinach, feta cheese, and herbs.",
+                "ordered": 2490,
+                "ratings": 4.8
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Garlic Roasted Potatoes",
+                "recipe_picture": "https://example.com/roasted-potatoes.jpg",
+                "recipe_info": "An easy and delicious side dish of crispy roasted potatoes seasoned with garlic and herbs.",
+                "ordered": 2400,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Homemade Pizza",
+                "recipe_picture": "https://example.com/homemade-pizza.jpg",
+                "recipe_info": "A classic homemade pizza recipe with your choice of toppings and a crispy crust.",
+                "ordered": 2350,
+                "ratings": 4.6
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Slow Cooker Pot Roast",
+                "recipe_picture": "https://example.com/slow-cooker-pot-roast.jpg",
+                "recipe_info": "A comforting and flavorful pot roast made in a slow cooker for a fuss-free meal.",
+                "ordered": 2178,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Chocolate Chip Cookies",
+                "recipe_picture": "https://example.com/chocolate-chip-cookies.jpg",
+                "recipe_info": "A classic cookie recipe with chocolate chips that are crispy on the outside and chewy on the inside.",
+                "ordered": 1690,
+                "ratings": 4.5
+            }
         ],
         "likes": 5000
     },

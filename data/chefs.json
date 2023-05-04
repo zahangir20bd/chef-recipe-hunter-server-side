@@ -5,9 +5,54 @@
         "chef_name": "John Smith",
         "experience": "20+ years",
         "recipes": [
-            "Lasagna",
-            "Beef Wellington",
-            "Tiramisu"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Spaghetti Bolognese",
+                "recipe_picture": "https://example.com/spaghetti-bolognese.jpg",
+                "recipe_info": "A classic Italian pasta dish with a meaty tomato sauce.",
+                "ordered": 1436,
+                "ratings": 4.6
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Chicken Tikka Masala",
+                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
+                "recipe_info": "A creamy and flavorful Indian curry dish with tender chicken.",
+                "ordered": 1250,
+                "ratings": 4.3
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Beef Stroganoff",
+                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_info": "A hearty Russian dish with tender beef, mushrooms, and sour cream.",
+                "ordered": 1368,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Spinach and Feta Stuffed Chicken",
+                "recipe_picture": "https://example.com/spinach-feta-stuffed-chicken.jpg",
+                "recipe_info": "A delicious and healthy stuffed chicken breast recipe with spinach and feta cheese.",
+                "ordered": 1500,
+                "ratings": 4.8
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Chocolate Chip Cookies",
+                "recipe_picture": "https://example.com/chocolate-chip-cookies.jpg",
+                "recipe_info": "A classic and irresistible dessert with soft and chewy chocolate chip cookies.",
+                "ordered": 1200,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Mushroom Risotto",
+                "recipe_picture": "https://example.com/mushroom-risotto.jpg",
+                "recipe_info": "A creamy and savory Italian rice dish with mushrooms and parmesan cheese.",
+                "ordered": 1051,
+                "ratings": 4.5
+            }
         ],
         "likes": 12000
     },

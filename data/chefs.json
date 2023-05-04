@@ -176,9 +176,54 @@
         "chef_name": "Maggie Chen",
         "experience": "8 years",
         "recipes": [
-            "Sushi Rolls",
-            "Kung Pao Chicken",
-            "Matcha Cake"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Beef Stroganoff",
+                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_info": "A hearty and comforting dish made with beef strips, mushrooms, and a creamy sauce served over noodles.",
+                "ordered": 2160,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Vegetable Stir-Fry",
+                "recipe_picture": "https://example.com/vegetable-stir-fry.jpg",
+                "recipe_info": "A healthy and colorful stir-fry with a variety of vegetables, served over rice or noodles.",
+                "ordered": 1950,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Chicken Parmesan",
+                "recipe_picture": "https://example.com/chicken-parmesan.jpg",
+                "recipe_info": "A classic Italian dish made with breaded chicken cutlets, tomato sauce, and melted mozzarella cheese.",
+                "ordered": 2000,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Tomato Soup",
+                "recipe_picture": "https://example.com/tomato-soup.jpg",
+                "recipe_info": "A comforting and flavorful soup made with ripe tomatoes, cream, and herbs.",
+                "ordered": 1580,
+                "ratings": 4.4
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Shrimp Scampi",
+                "recipe_picture": "https://example.com/shrimp-scampi.jpg",
+                "recipe_info": "A quick and easy shrimp dish with garlic, butter, and white wine sauce served over pasta.",
+                "ordered": 2360,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Veggie Burger",
+                "recipe_picture": "https://example.com/veggie-burger.jpg",
+                "recipe_info": "A flavorful and healthy vegetarian burger made with a variety of vegetables and grains.",
+                "ordered": 2200,
+                "ratings": 4.6
+            }
         ],
         "likes": 4000
     },

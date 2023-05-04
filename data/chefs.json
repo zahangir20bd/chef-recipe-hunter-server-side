@@ -167,48 +167,142 @@
             {
                 "recipe_id": 1,
                 "recipe_name": "Pesto Pasta",
-                "recipe_picture": "https://example.com/pesto-pasta.jpg",
+                "recipe_picture": "https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg",
                 "recipe_info": "A simple and flavorful pasta dish with homemade basil pesto.",
+                "ingredients": [
+                    "1/2 cup (120 ml) heavy cream",
+                    "1/2 cup (60 g) grated Parmesan cheese",
+                    "1/4 cup (60 g) pesto sauce",
+                    "1/4 cup (60 ml) reserved pasta cooking water",
+                    "Salt and black pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Cook pasta and reserve 1/4 cup of the cooking water.",
+                    "Heat heavy cream in a skillet.",
+                    "Add Parmesan cheese and whisk until melted.",
+                    "Add pesto sauce and whisk until well combined.",
+                    "Add reserved cooking water and whisk until desired consistency.",
+                    "Season with salt and pepper.",
+                    "Add pasta to skillet and toss until coated.",
+                    "Serve hot and enjoy!"
+                ],
                 "ordered": 3800,
                 "ratings": 4.8
             },
             {
                 "recipe_id": 2,
                 "recipe_name": "Beef and Broccoli Stir Fry",
-                "recipe_picture": "https://example.com/beef-broccoli-stir-fry.jpg",
+                "recipe_picture": "https://healthyfitnessmeals.com/wp-content/uploads/2022/03/Beef-and-broccoli-stir-fry-7.jpg",
                 "recipe_info": "A quick and easy Chinese-inspired stir fry with tender beef and broccoli.",
+                "ingredients": [
+                    "Beef & Broccoli florets",
+                    "Cornstarch",
+                    "Soy sauce",
+                    "Sesame oil",
+                    "Red pepper flakes"
+                ],
+                "cooking_method": [
+                    "In a small bowl, whisk together cornstarch and soy sauce.",
+                    "Cut beef into thin strips and coat with cornstarch mixture.",
+                    "In a wok or large skillet, heat sesame oil over high heat.",
+                    "Add beef and stir-fry for 2-3 minutes until browned.",
+                    "Add broccoli and red pepper flakes and stir-fry for an additional 2-3 minutes until broccoli is tender-crisp.",
+                    "Serve hot with rice and enjoy!"
+                ],
                 "ordered": 2300,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 3,
                 "recipe_name": "Vegetarian Chili",
-                "recipe_picture": "https://example.com/vegetarian-chili.jpg",
+                "recipe_picture": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F9fff417ed363c61374bb3a2523683b9949b51fb9",
                 "recipe_info": "A hearty and healthy chili recipe packed with beans, vegetables, and spices.",
+                "ingredients": [
+                    "Diced tomatoes",
+                    "Kidney beans",
+                    "Corn",
+                    "Chili powder",
+                    "Cumin"
+                ],
+                "cooking_method": [
+                    "Heat oil in a large pot over medium heat.",
+                    "Add onion, garlic and bell pepper and sauté until softened.",
+                    "Add chili powder and cumin and stir for about 1 minute.",
+                    "Add diced tomatoes, kidney beans and corn.",
+                    "Add enough water to cover the vegetables and beans.",
+                    "Bring to a boil and then reduce heat and simmer for about 20-25 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot and enjoy!"
+                ],
                 "ordered": 3200,
                 "ratings": 4.7
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Lemon Garlic Shrimp",
-                "recipe_picture": "https://example.com/lemon-garlic-shrimp.jpg",
+                "recipe_picture": "https://healthyfitnessmeals.com/wp-content/uploads/2020/08/Garlic-lemon-shrimp-skillet-8-1.jpg",
                 "recipe_info": "A delicious and easy-to-make seafood dish with tangy lemon and garlic flavors.",
+                "ingredients": [
+                    "Shrimp",
+                    "Lemon juice",
+                    "Garlic",
+                    "Butter",
+                    "Parsley"
+                ],
+                "cooking_method": [
+                    "Heat butter in a skillet over medium heat.",
+                    "Add minced garlic and sauté for 1-2 minutes until fragrant.",
+                    "Add shrimp and cook for 2-3 minutes until pink.",
+                    "Add lemon juice and parsley, and stir to combine.",
+                    "Serve hot with rice or salad, and enjoy!"
+                ],
                 "ordered": 1800,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 5,
                 "recipe_name": "Baked Ziti",
-                "recipe_picture": "https://example.com/baked-ziti.jpg",
+                "recipe_picture": "https://www.allrecipes.com/thmb/uJocCYfLL1gMCsbj79tY7hKilWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557541-21604073f2774e89b532193821d6cd9c.jpg",
                 "recipe_info": "A classic Italian casserole dish with ziti pasta, meaty tomato sauce, and melted cheese.",
+                "ingredients": [
+                    "Ziti pasta",
+                    "Ricotta cheese",
+                    "Mozzarella cheese",
+                    "Parmesan cheese",
+                    "Tomato sauce"
+                ],
+                "cooking_method": [
+                    "Cook ziti pasta and drain.",
+                    "Mix together ricotta, mozzarella, and parmesan cheese.",
+                    "Combine cooked pasta with cheese mixture.",
+                    "Layer tomato sauce on the bottom of a baking dish.",
+                    "Add ziti mixture to the baking dish and spread evenly.",
+                    "Top with additional tomato sauce.",
+                    "Bake at 375°F (190°C) for 20 minutes covered, and 10-15 minutes uncovered.",
+                    "Let cool, serve and enjoy!"
+                ],
                 "ordered": 3600,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 6,
                 "recipe_name": "Banana Bread",
-                "recipe_picture": "https://example.com/banana-bread.jpg",
+                "recipe_picture": "https://www.allrecipes.com/thmb/7Vn00l3j_zQJtXgYFCu4sU-xOOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-mfs-57-0bb49d050a6941c4b3715e57b8e6badd.jpg",
                 "recipe_info": "A moist and delicious homemade bread recipe made with ripe bananas and warm spices.",
+                "ingredients": [
+                    "Ripe bananas",
+                    "All-purpose flour",
+                    "Baking soda",
+                    "Salt",
+                    "Brown sugar"
+                ],
+                "cooking_method": [
+                    "Mash bananas and mix with butter and brown sugar.",
+                    "In a separate bowl, mix flour, baking soda, and salt.",
+                    "Combine the two mixtures until just combined.",
+                    "Pour batter into a greased loaf pan and bake at 350°F (175°C) for 50-60 minutes.",
+                    "Let cool, slice, and serve your delicious banana bread!"
+                ],
                 "ordered": 2200,
                 "ratings": 4.6
             }
@@ -224,48 +318,147 @@
             {
                 "recipe_id": 1,
                 "recipe_name": "Chicken Tikka Masala",
-                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
+                "recipe_picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                 "recipe_info": "A popular Indian dish made with marinated chicken cooked in a creamy tomato-based sauce.",
+                "ingredients": [
+                    "1 lb (450 g) boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1/2 cup (120 g) plain yogurt & 1/4 cup (60 ml) heavy cream",
+                    "2 tbsp (30 g) butter & 1 tbsp (15 ml) vegetable oil",
+                    "1 onion, finely chopped, 2 cloves garlic, minced & 1 tbsp (7 g) garam masala",
+                    "1 tsp (5 g) each of ground turmeric, cumin, and paprika",
+                    "1/2 tsp (2.5 g) cayenne pepper & Salt and pepper, to taste",
+                    "Fresh cilantro leaves, chopped, for garnish",
+                    "Cooked basmati rice, for serving"
+                ],
+                "cooking_method": [
+                    "Marinate chicken in yogurt, cream, and half of the spices for at least 30 mins.",
+                    "Sauté onion, garlic, and remaining spices in butter and oil.",
+                    "Add chicken to the skillet and cook until browned on all sides.",
+                    "Pour in any remaining marinade, along with 1 cup (240 ml) of water.",
+                    "Let it simmer until chicken is cooked through and the sauce has thickened, about 20 minutes.",
+                    "Season with salt and pepper to taste. Serve over cooked basmati rice, garnished with cilantro. Enjoy!"
+                ],
                 "ordered": 3270,
                 "ratings": 4.8
             },
             {
                 "recipe_id": 2,
                 "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
-                "recipe_picture": "https://example.com/stuffed-chicken-breast.jpg",
+                "recipe_picture": "https://spicysouthernkitchen.com/wp-content/uploads/Bacon-Wrapped-Spinach-Stuffed-Chicken-feature.jpg",
                 "recipe_info": "A healthy and flavorful chicken dish stuffed with spinach, feta cheese, and herbs.",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "4 oz crumbled feta cheese",
+                    "4 cups baby spinach leaves",
+                    "2 cloves garlic, minced",
+                    "1 tbsp olive oil",
+                    "Salt and pepper, to taste",
+                    "Toothpicks or kitchen twine, for securing chicken"
+                ],
+                "cooking_method": [
+                    "Preheat oven to 375°F (190°C).",
+                    "Cook garlic and spinach in olive oil until wilted.",
+                    "Season chicken breasts with salt and pepper.",
+                    "Stuff chicken breasts with feta cheese and spinach mixture.",
+                    "Bake for 25-30 minutes until chicken is cooked through.",
+                    "Let chicken rest for 5 minutes before serving."
+                ],
                 "ordered": 2490,
                 "ratings": 4.8
             },
             {
                 "recipe_id": 3,
                 "recipe_name": "Garlic Roasted Potatoes",
-                "recipe_picture": "https://example.com/roasted-potatoes.jpg",
+                "recipe_picture": "https://www.eatwell101.com/wp-content/uploads/2018/11/roasted-potatoes-recipe-5-1b.jpg",
                 "recipe_info": "An easy and delicious side dish of crispy roasted potatoes seasoned with garlic and herbs.",
+                "ingredients": [
+                    "2 lbs small potatoes, washed and dried",
+                    "6 cloves garlic, minced",
+                    "3 tbsp olive oil",
+                    "1 tsp dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Preheat the oven to 425°F (220°C).",
+                    "Cut the potatoes into halves or quarters, depending on their size.",
+                    "In a large bowl, toss the potatoes with minced garlic, olive oil, dried thyme, salt, and pepper until well coated.",
+                    "Arrange the potatoes in a single layer on a baking sheet lined with parchment paper.",
+                    "Roast in the oven for 25-30 minutes, or until the potatoes are tender and golden brown, stirring once halfway through.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ],
                 "ordered": 2400,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Homemade Pizza",
-                "recipe_picture": "https://example.com/homemade-pizza.jpg",
+                "recipe_picture": "https://www.allrecipes.com/thmb/hFp7DU7oDmN10tuwv2KG5LzuHHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20171-quick-and-easy-pizza-crust-VilmaNg-4x3-f3d3bfe73e3a47b6b65a7da6de3f213d.jpg",
                 "recipe_info": "A classic homemade pizza recipe with your choice of toppings and a crispy crust.",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1 cup pizza sauce",
+                    "2 cups shredded mozzarella cheese",
+                    "Toppings of your choice (e.g. pepperoni, sliced vegetables, cooked sausage, etc.)",
+                    "Cornmeal or flour, for dusting"
+                ],
+                "cooking_method": [
+                    "Preheat oven to 450°F (230°C).",
+                    "Roll out pizza dough and transfer it to a pizza pan.",
+                    "Spread pizza sauce over the dough and top with shredded mozzarella cheese and toppings of your choice.",
+                    "Bake in the oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                    "Remove the pizza from the oven and let it cool for a few minutes.",
+                    "Slice the pizza and serve."
+                ],
                 "ordered": 2350,
                 "ratings": 4.6
             },
             {
                 "recipe_id": 5,
-                "recipe_name": "Slow Cooker Pot Roast",
-                "recipe_picture": "https://example.com/slow-cooker-pot-roast.jpg",
-                "recipe_info": "A comforting and flavorful pot roast made in a slow cooker for a fuss-free meal.",
-                "ordered": 2178,
+                "recipe_name": "Chocolate Chip Cookies",
+                "recipe_picture": "https://www.budgetbytes.com/wp-content/uploads/2022/12/Chocolate-Chip-Cookies-close.jpg",
+                "recipe_info": "A classic and irresistible dessert with soft and chewy chocolate chip cookies.",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Baking soda & Salt",
+                    "Unsalted butte",
+                    "Granulated sugar",
+                    "Eggs & Vanilla extract",
+                    "Semisweet chocolate chips"
+                ],
+                "cooking_method": [
+                    "Mix dry ingredients in a bowl.",
+                    "Cream butter and sugar, add eggs and vanilla.",
+                    "Gradually stir in dry ingredients.",
+                    "Fold in chocolate chips.",
+                    "Drop spoonfuls of dough onto baking sheet.",
+                    "Bake until lightly golden brown.",
+                    "Cool on baking sheet for 5 mins, then transfer to wire rack to cool completely. Enjoy!"
+                ],
+                "ordered": 1200,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 6,
                 "recipe_name": "Chocolate Chip Cookies",
-                "recipe_picture": "https://example.com/chocolate-chip-cookies.jpg",
+                "recipe_picture": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/10/Pot-Roast-main-1.jpg",
                 "recipe_info": "A classic cookie recipe with chocolate chips that are crispy on the outside and chewy on the inside.",
+                "ingredients": [
+                    "3 lbs beef chuck roast",
+                    "1 onion, sliced",
+                    "3 carrots, peeled and chopped",
+                    "3 garlic cloves, minced",
+                    "2 cups beef broth",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Season the beef chuck roast with salt and pepper.",
+                    "Place the sliced onion, chopped carrots, and minced garlic in the bottom of a slow cooker.",
+                    "Place the beef chuck roast on top of the vegetables.",
+                    "Pour the beef broth over the beef and vegetables.",
+                    "Cover the slow cooker and cook on low for 8-10 hours, or on high for 4-6 hours, until the beef is tender and falls apart easily.",
+                    "Remove the beef from the slow cooker and let it rest for a few minutes before slicing.",
+                    "Serve the beef with the vegetables and broth."
+                ],
                 "ordered": 1690,
                 "ratings": 4.5
             }
@@ -281,48 +474,143 @@
             {
                 "recipe_id": 1,
                 "recipe_name": "Beef Stroganoff",
-                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_picture": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
                 "recipe_info": "A hearty and comforting dish made with beef strips, mushrooms, and a creamy sauce served over noodles.",
+                "ingredients": [
+                    "1 lb (450 g) beef sirloin, cut into thin strips",
+                    "2 tbsp (30 g) butter & 1 onion, finely chopped",
+                    "2 cloves garlic, minced",
+                    "8 oz (227 g) sliced mushrooms",
+                    "1 cup (240 ml) beef broth",
+                    "1/4 cup (60 ml) sour cream",
+                    "2 tbsp (30 ml) Worcestershire sauce"
+                ],
+                "cooking_method": [
+                    "Brown beef strips in butter, then remove from skillet.",
+                    "Sauté onion and garlic, then add mushrooms and cook.",
+                    "Whisk beef broth, sour cream, and Worcestershire sauce together in skillet.",
+                    "Add beef back in and simmer until sauce thickens and beef is cooked.",
+                    "Serve over cooked egg noodles and garnish with parsley. Enjoy!"
+                ],
                 "ordered": 2160,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 2,
                 "recipe_name": "Vegetable Stir-Fry",
-                "recipe_picture": "https://example.com/vegetable-stir-fry.jpg",
+                "recipe_picture": "https://yellowchilis.com/wp-content/uploads/2022/08/vegetable-stir-fry.jpg",
                 "recipe_info": "A healthy and colorful stir-fry with a variety of vegetables, served over rice or noodles.",
+                "ingredients": [
+                    "1 tbsp vegetable oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "2 cups chopped vegetables (e.g. broccoli, bell peppers, carrots, mushrooms, etc.)",
+                    "1 tbsp soy sauce",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the chopped onion and minced garlic to the skillet and stir-fry for 1-2 minutes until fragrant.",
+                    "Add the chopped vegetables to the skillet and stir-fry for 4-5 minutes until tender-crisp.",
+                    "Add the soy sauce and season with salt and pepper to taste.",
+                    "Stir-fry for an additional 1-2 minutes until the vegetables are coated with the sauce.",
+                    "Remove the skillet from the heat and serve the vegetable stir-fry hot."
+                ],
                 "ordered": 1950,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 3,
                 "recipe_name": "Chicken Parmesan",
-                "recipe_picture": "https://example.com/chicken-parmesan.jpg",
+                "recipe_picture": "https://www.allrecipes.com/thmb/J0U0wHxsY1r-I1JUJ5jXcwCnzRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-7ab952346edc4b2da36f3c0259b78543.jpg",
                 "recipe_info": "A classic Italian dish made with breaded chicken cutlets, tomato sauce, and melted mozzarella cheese.",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup all-purpose flour",
+                    "2 large eggs, beaten",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "2 cups marinara sauce",
+                    "2 cups shredded mozzarella cheese",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Season chicken with salt and pepper, dredge in flour, dip in beaten eggs, and coat with breadcrumbs.",
+                    "Place chicken in a greased baking dish, top with marinara sauce and shredded mozzarella cheese.",
+                    "Bake at 400°F (200°C) for 20-25 minutes, or until chicken is cooked and cheese is melted and bubbly.",
+                    "Let cool for a few minutes before serving."
+                ],
                 "ordered": 2000,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Tomato Soup",
-                "recipe_picture": "https://example.com/tomato-soup.jpg",
+                "recipe_picture": "https://natashaskitchen.com/wp-content/uploads/2021/08/Tomato-Soup-Recipe-SQ.jpg",
                 "recipe_info": "A comforting and flavorful soup made with ripe tomatoes, cream, and herbs.",
+                "ingredients": [
+                    "2 tbsp olive oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "28 oz canned crushed tomatoes",
+                    "2 cups vegetable broth",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat.",
+                    "Add the chopped onion and minced garlic to the pot and sauté for 3-4 minutes until softened.",
+                    "Add the canned crushed tomatoes and vegetable broth to the pot and stir to combine.",
+                    "Bring the soup to a simmer and let it cook for 10-15 minutes.",
+                    "Use an immersion blender or transfer the soup to a blender and puree until smooth.",
+                    "Season the soup with salt and pepper to taste.",
+                    "Serve the tomato soup hot."
+                ],
                 "ordered": 1580,
                 "ratings": 4.4
             },
             {
                 "recipe_id": 5,
-                "recipe_name": "Shrimp Scampi",
-                "recipe_picture": "https://example.com/shrimp-scampi.jpg",
-                "recipe_info": "A quick and easy shrimp dish with garlic, butter, and white wine sauce served over pasta.",
-                "ordered": 2360,
+                "recipe_name": "Chocolate Chip Cookies",
+                "recipe_picture": "https://www.budgetbytes.com/wp-content/uploads/2022/12/Chocolate-Chip-Cookies-close.jpg",
+                "recipe_info": "A classic and irresistible dessert with soft and chewy chocolate chip cookies.",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Baking soda & Salt",
+                    "Unsalted butte",
+                    "Granulated sugar",
+                    "Eggs & Vanilla extract",
+                    "Semisweet chocolate chips"
+                ],
+                "cooking_method": [
+                    "Mix dry ingredients in a bowl.",
+                    "Cream butter and sugar, add eggs and vanilla.",
+                    "Gradually stir in dry ingredients.",
+                    "Fold in chocolate chips.",
+                    "Drop spoonfuls of dough onto baking sheet.",
+                    "Bake until lightly golden brown.",
+                    "Cool on baking sheet for 5 mins, then transfer to wire rack to cool completely. Enjoy!"
+                ],
+                "ordered": 1200,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 6,
-                "recipe_name": "Veggie Burger",
-                "recipe_picture": "https://example.com/veggie-burger.jpg",
-                "recipe_info": "A flavorful and healthy vegetarian burger made with a variety of vegetables and grains.",
+                "recipe_name": "Banana Bread",
+                "recipe_picture": "https://www.allrecipes.com/thmb/7Vn00l3j_zQJtXgYFCu4sU-xOOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-mfs-57-0bb49d050a6941c4b3715e57b8e6badd.jpg",
+                "recipe_info": "A moist and delicious homemade bread recipe made with ripe bananas and warm spices.",
+                "ingredients": [
+                    "Ripe bananas",
+                    "All-purpose flour",
+                    "Baking soda",
+                    "Salt",
+                    "Brown sugar"
+                ],
+                "cooking_method": [
+                    "Mash bananas and mix with butter and brown sugar.",
+                    "In a separate bowl, mix flour, baking soda, and salt.",
+                    "Combine the two mixtures until just combined.",
+                    "Pour batter into a greased loaf pan and bake at 350°F (175°C) for 50-60 minutes.",
+                    "Let cool, slice, and serve your delicious banana bread!"
+                ],
                 "ordered": 2200,
                 "ratings": 4.6
             }
@@ -337,50 +625,151 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_name": "Taco Salad",
-                "recipe_picture": "https://example.com/taco-salad.jpg",
-                "recipe_info": "A delicious and filling salad made with seasoned ground beef, lettuce, tomatoes, cheese, and tortilla chips.",
-                "ordered": 1970,
+                "recipe_name": "Chicken Parmesan",
+                "recipe_picture": "https://www.allrecipes.com/thmb/J0U0wHxsY1r-I1JUJ5jXcwCnzRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-7ab952346edc4b2da36f3c0259b78543.jpg",
+                "recipe_info": "A classic Italian dish made with breaded chicken cutlets, tomato sauce, and melted mozzarella cheese.",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup all-purpose flour",
+                    "2 large eggs, beaten",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "2 cups marinara sauce",
+                    "2 cups shredded mozzarella cheese",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Season chicken with salt and pepper, dredge in flour, dip in beaten eggs, and coat with breadcrumbs.",
+                    "Place chicken in a greased baking dish, top with marinara sauce and shredded mozzarella cheese.",
+                    "Bake at 400°F (200°C) for 20-25 minutes, or until chicken is cooked and cheese is melted and bubbly.",
+                    "Let cool for a few minutes before serving."
+                ],
+                "ordered": 2000,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 2,
                 "recipe_name": "Spaghetti Carbonara",
-                "recipe_picture": "https://example.com/spaghetti-carbonara.jpg",
-                "recipe_info": "An indulgent pasta dish made with bacon, eggs, and Parmesan cheese.",
-                "ordered": 2240,
-                "ratings": 4.5
+                "recipe_picture": "https://www.slimmingeats.com/blog/wp-content/uploads/2010/04/spaghetti-bolognese-36.jpg",
+                "recipe_info": "A classic Italian pasta dish with a meaty tomato sauce.",
+                "ingredients": [
+                    "1 pound (450 g) spaghetti",
+                    "2 tablespoons olive oil",
+                    "1 onion chopped",
+                    "2 garlic cloves minced",
+                    "1 pound (450 g) ground beef",
+                    "1 can (28 ounces / 800 g) diced tomatoes",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried basil",
+                    "1 teaspoon dried oregano",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and pepper",
+                    "Freshly grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "Cook the spaghetti according to package directions until al dente. Drain and set aside.",
+                    "Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened and fragrant, about 5 minutes.",
+                    "Add the ground beef to the skillet and cook until browned, breaking up any clumps with a spoon.",
+                    "Stir in the diced tomatoes, tomato paste, basil, oregano, red pepper flakes, salt, and pepper. Bring to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+                    "Serve the spaghetti topped with the Bolognese sauce and freshly grated Parmesan cheese. Enjoy!"
+                ],
+                "ordered": 1436,
+                "ratings": 4.6
             },
             {
                 "recipe_id": 3,
-                "recipe_name": "Greek Salad",
-                "recipe_picture": "https://example.com/greek-salad.jpg",
-                "recipe_info": "A refreshing salad made with cucumbers, tomatoes, olives, feta cheese, and a tangy dressing.",
-                "ordered": 2140,
+                "recipe_name": "Baked Ziti",
+                "recipe_picture": "https://www.allrecipes.com/thmb/uJocCYfLL1gMCsbj79tY7hKilWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557541-21604073f2774e89b532193821d6cd9c.jpg",
+                "recipe_info": "A classic Italian casserole dish with ziti pasta, meaty tomato sauce, and melted cheese.",
+                "ingredients": [
+                    "Ziti pasta",
+                    "Ricotta cheese",
+                    "Mozzarella cheese",
+                    "Parmesan cheese",
+                    "Tomato sauce"
+                ],
+                "cooking_method": [
+                    "Cook ziti pasta and drain.",
+                    "Mix together ricotta, mozzarella, and parmesan cheese.",
+                    "Combine cooked pasta with cheese mixture.",
+                    "Layer tomato sauce on the bottom of a baking dish.",
+                    "Add ziti mixture to the baking dish and spread evenly.",
+                    "Top with additional tomato sauce.",
+                    "Bake at 375°F (190°C) for 20 minutes covered, and 10-15 minutes uncovered.",
+                    "Let cool, serve and enjoy!"
+                ],
+                "ordered": 3600,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Chicken Tikka Masala",
-                "recipe_picture": "https://example.com/chicken-tikka-masala.jpg",
-                "recipe_info": "A popular Indian dish made with marinated chicken in a creamy tomato-based sauce, served over rice.",
-                "ordered": 2360,
+                "recipe_picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
+                "recipe_info": "A creamy and flavorful Indian curry dish with tender chicken.",
+                "ingredients": [
+                    "1 lb (450 g) boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1/2 cup (120 g) plain yogurt & 1/4 cup (60 ml) heavy cream",
+                    "2 tbsp (30 g) butter & 1 tbsp (15 ml) vegetable oil",
+                    "1 onion, finely chopped, 2 cloves garlic, minced & 1 tbsp (7 g) garam masala",
+                    "1 tsp (5 g) each of ground turmeric, cumin, and paprika",
+                    "1/2 tsp (2.5 g) cayenne pepper & Salt and pepper, to taste",
+                    "Fresh cilantro leaves, chopped, for garnish",
+                    "Cooked basmati rice, for serving"
+                ],
+                "cooking_method": [
+                    "Marinate chicken in yogurt, cream, and half of the spices for at least 30 mins.",
+                    "Sauté onion, garlic, and remaining spices in butter and oil.",
+                    "Add chicken to the skillet and cook until browned on all sides.",
+                    "Pour in any remaining marinade, along with 1 cup (240 ml) of water.",
+                    "Let it simmer until chicken is cooked through and the sauce has thickened, about 20 minutes.",
+                    "Season with salt and pepper to taste. Serve over cooked basmati rice, garnished with cilantro. Enjoy!"
+                ],
                 "ratings": 4.6
             },
             {
                 "recipe_id": 5,
-                "recipe_name": "Vegan Pad Thai",
-                "recipe_picture": "https://example.com/vegan-pad-thai.jpg",
-                "recipe_info": "A flavorful and healthy vegan version of the classic Thai dish made with rice noodles, tofu, vegetables, and peanuts.",
+                "recipe_name": "Spinach and Feta Stuffed Chicken",
+                "recipe_picture": "https://www.eatingwell.com/thmb/lAEwtQROBY8pEVjuip5Q-eSfQ3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1501p130-spinach-feta-stuffed-chicken-breasts-8030825-66b09a00be4340c6a6af32fda656319c.jpg",
+                "recipe_info": "A delicious and healthy stuffed chicken breast recipe with spinach and feta cheese.",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup crumbled feta cheese",
+                    "1/2 cup chopped frozen spinach",
+                    "1/4 cup olive oil",
+                    "Salt and pepper",
+                    "Toothpicks"
+                ],
+                "cooking_method": [
+                    "Mix feta cheese and spinach.",
+                    "Butterfly chicken breasts and stuff with mixture, secure with toothpicks.",
+                    "Brown chicken in olive oil in a skillet.",
+                    "Bake in oven until cooked through.",
+                    "Remove toothpicks and serve hot. Enjoy!"
+                ],
                 "ordered": 1500,
-                "ratings": 4.5
+                "ratings": 4.8
             },
             {
                 "recipe_id": 6,
-                "recipe_name": "Beef Tacos",
-                "recipe_picture": "https://example.com/beef-tacos.jpg",
-                "recipe_info": "A quick and easy dinner made with seasoned ground beef, taco shells, and your favorite toppings.",
-                "ordered": 2300,
+                "recipe_name": "Mushroom Risotto",
+                "recipe_picture": "https://www.seriouseats.com/thmb/_Bm7MuoZztRNzPjQv2W7ACWC7OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220217-pressure-cooker-mushroom-risotto-mariel-delacruz-082-cd5cc0b0b13f4239aeab86d88df6a1b0.jpg",
+                "recipe_info": "A creamy and savory Italian rice dish with mushrooms and parmesan cheese.",
+                "ingredients": [
+                    "White wine",
+                    "Chicken or vegetable broth",
+                    "Parmesan cheese",
+                    "Unsalted butter",
+                    "Salt and black pepper"
+                ],
+                "cooking_method": [
+                    "Simmer broth in a saucepan.",
+                    "Cook onion and mushrooms in a pot.",
+                    "Add Arborio rice and coat with oil.",
+                    "Add wine and broth, stirring until absorbed.",
+                    "Repeat until rice is tender and creamy.",
+                    "Remove from heat and stir in cheese and butter.",
+                    "Season with salt and pepper. Enjoy!"
+                ],
+                "ordered": 1051,
                 "ratings": 4.5
             }
         ],
@@ -394,51 +783,149 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_name": "Stir-Fried Vegetables",
-                "recipe_picture": "https://example.com/stir-fry-vegetables.jpg",
-                "recipe_info": "A simple and healthy dish with an assortment of colorful vegetables.",
-                "ordered": 1543,
-                "ratings": 4.3
+                "recipe_name": "Spaghetti Bolognese",
+                "recipe_picture": "https://www.slimmingeats.com/blog/wp-content/uploads/2010/04/spaghetti-bolognese-36.jpg",
+                "recipe_info": "A classic Italian pasta dish with a meaty tomato sauce.",
+                "ingredients": [
+                    "1 pound (450 g) spaghetti",
+                    "2 tablespoons olive oil",
+                    "1 onion chopped",
+                    "2 garlic cloves minced",
+                    "1 pound (450 g) ground beef",
+                    "1 can (28 ounces / 800 g) diced tomatoes",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried basil",
+                    "1 teaspoon dried oregano",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and pepper",
+                    "Freshly grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "Cook the spaghetti according to package directions until al dente. Drain and set aside.",
+                    "Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened and fragrant, about 5 minutes.",
+                    "Add the ground beef to the skillet and cook until browned, breaking up any clumps with a spoon.",
+                    "Stir in the diced tomatoes, tomato paste, basil, oregano, red pepper flakes, salt, and pepper. Bring to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+                    "Serve the spaghetti topped with the Bolognese sauce and freshly grated Parmesan cheese. Enjoy!"
+                ],
+                "ordered": 1436,
+                "ratings": 4.6
             },
             {
                 "recipe_id": 2,
-                "recipe_name": "BBQ Ribs",
-                "recipe_picture": "https://example.com/bbq-ribs.jpg",
-                "recipe_info": "Fall-off-the-bone tender ribs with a smoky BBQ sauce.",
-                "ordered": 2170,
-                "ratings": 4.7
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "recipe_picture": "https://healthyfitnessmeals.com/wp-content/uploads/2022/03/Beef-and-broccoli-stir-fry-7.jpg",
+                "recipe_info": "A quick and easy Chinese-inspired stir fry with tender beef and broccoli.",
+                "ingredients": [
+                    "Beef & Broccoli florets",
+                    "Cornstarch",
+                    "Soy sauce",
+                    "Sesame oil",
+                    "Red pepper flakes"
+                ],
+                "cooking_method": [
+                    "In a small bowl, whisk together cornstarch and soy sauce.",
+                    "Cut beef into thin strips and coat with cornstarch mixture.",
+                    "In a wok or large skillet, heat sesame oil over high heat.",
+                    "Add beef and stir-fry for 2-3 minutes until browned.",
+                    "Add broccoli and red pepper flakes and stir-fry for an additional 2-3 minutes until broccoli is tender-crisp.",
+                    "Serve hot with rice and enjoy!"
+                ],
+                "ordered": 2300,
+                "ratings": 4.5
             },
             {
                 "recipe_id": 3,
-                "recipe_name": "Spinach and Feta Stuffed Chicken",
-                "recipe_picture": "https://example.com/stuffed-chicken.jpg",
-                "recipe_info": "Tender and juicy chicken breasts stuffed with spinach and feta cheese.",
-                "ordered": 2140,
+                "recipe_name": "Garlic Roasted Potatoes",
+                "recipe_picture": "https://www.eatwell101.com/wp-content/uploads/2018/11/roasted-potatoes-recipe-5-1b.jpg",
+                "recipe_info": "An easy and delicious side dish of crispy roasted potatoes seasoned with garlic and herbs.",
+                "ingredients": [
+                    "2 lbs small potatoes, washed and dried",
+                    "6 cloves garlic, minced",
+                    "3 tbsp olive oil",
+                    "1 tsp dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Preheat the oven to 425°F (220°C).",
+                    "Cut the potatoes into halves or quarters, depending on their size.",
+                    "In a large bowl, toss the potatoes with minced garlic, olive oil, dried thyme, salt, and pepper until well coated.",
+                    "Arrange the potatoes in a single layer on a baking sheet lined with parchment paper.",
+                    "Roast in the oven for 25-30 minutes, or until the potatoes are tender and golden brown, stirring once halfway through.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ],
+                "ordered": 2400,
                 "ratings": 4.5
             },
             {
                 "recipe_id": 4,
                 "recipe_name": "Beef Stroganoff",
-                "recipe_picture": "https://example.com/beef-stroganoff.jpg",
+                "recipe_picture": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
                 "recipe_info": "Tender strips of beef in a creamy mushroom sauce served over egg noodles.",
+                "ingredients": [
+                    "1 lb (450 g) beef sirloin, cut into thin strips",
+                    "2 tbsp (30 g) butter & 1 onion, finely chopped",
+                    "2 cloves garlic, minced",
+                    "8 oz (227 g) sliced mushrooms",
+                    "1 cup (240 ml) beef broth",
+                    "1/4 cup (60 ml) sour cream",
+                    "2 tbsp (30 ml) Worcestershire sauce"
+                ],
+                "cooking_method": [
+                    "Brown beef strips in butter, then remove from skillet.",
+                    "Sauté onion and garlic, then add mushrooms and cook.",
+                    "Whisk beef broth, sour cream, and Worcestershire sauce together in skillet.",
+                    "Add beef back in and simmer until sauce thickens and beef is cooked.",
+                    "Serve over cooked egg noodles and garnish with parsley. Enjoy!"
+                ],
                 "ordered": 2240,
                 "ratings": 4.8
             },
             {
                 "recipe_id": 5,
-                "recipe_name": "Lemon Garlic Shrimp Pasta",
-                "recipe_picture": "https://example.com/shrimp-pasta.jpg",
-                "recipe_info": "Garlicky shrimp and tender pasta tossed in a lemon cream sauce.",
-                "ordered": 1680,
-                "ratings": 4.6
+                "recipe_name": "Chocolate Chip Cookies",
+                "recipe_picture": "https://www.budgetbytes.com/wp-content/uploads/2022/12/Chocolate-Chip-Cookies-close.jpg",
+                "recipe_info": "A classic and irresistible dessert with soft and chewy chocolate chip cookies.",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Baking soda & Salt",
+                    "Unsalted butte",
+                    "Granulated sugar",
+                    "Eggs & Vanilla extract",
+                    "Semisweet chocolate chips"
+                ],
+                "cooking_method": [
+                    "Mix dry ingredients in a bowl.",
+                    "Cream butter and sugar, add eggs and vanilla.",
+                    "Gradually stir in dry ingredients.",
+                    "Fold in chocolate chips.",
+                    "Drop spoonfuls of dough onto baking sheet.",
+                    "Bake until lightly golden brown.",
+                    "Cool on baking sheet for 5 mins, then transfer to wire rack to cool completely. Enjoy!"
+                ],
+                "ordered": 1200,
+                "ratings": 4.5
             },
             {
                 "recipe_id": 6,
-                "recipe_name": "Mushroom Risotto",
-                "recipe_picture": "https://example.com/mushroom-risotto.jpg",
-                "recipe_info": "Creamy and comforting risotto with sautéed mushrooms.",
-                "ordered": 1570,
-                "ratings": 4.5
+                "recipe_name": "Banana Bread",
+                "recipe_picture": "https://www.allrecipes.com/thmb/7Vn00l3j_zQJtXgYFCu4sU-xOOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-mfs-57-0bb49d050a6941c4b3715e57b8e6badd.jpg",
+                "recipe_info": "A moist and delicious homemade bread recipe made with ripe bananas and warm spices.",
+                "ingredients": [
+                    "Ripe bananas",
+                    "All-purpose flour",
+                    "Baking soda",
+                    "Salt",
+                    "Brown sugar"
+                ],
+                "cooking_method": [
+                    "Mash bananas and mix with butter and brown sugar.",
+                    "In a separate bowl, mix flour, baking soda, and salt.",
+                    "Combine the two mixtures until just combined.",
+                    "Pour batter into a greased loaf pan and bake at 350°F (175°C) for 50-60 minutes.",
+                    "Let cool, slice, and serve your delicious banana bread!"
+                ],
+                "ordered": 2200,
+                "ratings": 4.6
             }
         ],
         "likes": 3000

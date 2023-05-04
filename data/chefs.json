@@ -1,0 +1,74 @@
+[
+    {
+        "chef_id": 1,
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "chef_name": "John Smith",
+        "experience": "20+ years",
+        "recipes": [
+            "Lasagna",
+            "Beef Wellington",
+            "Tiramisu"
+        ],
+        "likes": 12000
+    },
+    {
+        "chef_id": 2,
+        "chef_picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "chef_name": "Alice Johnson",
+        "experience": "15 years",
+        "recipes": [
+            "Chicken Curry",
+            "Risotto",
+            "Chocolate Cake"
+        ],
+        "likes": 8000
+    },
+    {
+        "chef_id": 3,
+        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
+        "chef_name": "David Lee",
+        "experience": "10 years",
+        "recipes": [
+            "Pad Thai",
+            "Pesto Pasta",
+            "Cheesecake"
+        ],
+        "likes": 5000
+    },
+    {
+        "chef_id": 4,
+        "chef_picture": "https://www.webstaurantstore.com/uploads/guide/2022/9/chef-using-knife-in-front-of-bowl.jpg",
+        "chef_name": "Maggie Chen",
+        "experience": "8 years",
+        "recipes": [
+            "Sushi Rolls",
+            "Kung Pao Chicken",
+            "Matcha Cake"
+        ],
+        "likes": 4000
+    },
+    {
+        "chef_id": 5,
+        "chef_picture": "https://interactive.guim.co.uk/atoms/2023/02/black-chefs/assets/v/1677546260105/chris-scott-3.jpg",
+        "chef_name": "Carlos Rodriguez",
+        "experience": "12 years",
+        "recipes": [
+            "Enchiladas",
+            "Paella",
+            "Churros"
+        ],
+        "likes": 6000
+    },
+    {
+        "chef_id": 6,
+        "chef_picture": "https://media.licdn.com/dms/image/C5622AQG5L_nNTuPcjQ/feedshare-shrink_2048_1536/0/1657554576693?e=2147483647&v=beta&t=FO-n1_T0NYYiAkKiwhcjl2RQG4lLfcnmOGBoZdl0lG0",
+        "chef_name": "Sophie Davis",
+        "experience": "5 years",
+        "recipes": [
+            "Salmon Quinoa Bowl",
+            "Vegan Chocolate Mousse",
+            "Cauliflower Fried Rice"
+        ],
+        "likes": 3000
+    }
+]

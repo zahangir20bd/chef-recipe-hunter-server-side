@@ -62,9 +62,54 @@
         "chef_name": "Alice Johnson",
         "experience": "15 years",
         "recipes": [
-            "Chicken Curry",
-            "Risotto",
-            "Chocolate Cake"
+            {
+                "recipe_id": 1,
+                "recipe_name": "Pesto Pasta",
+                "recipe_picture": "https://example.com/pesto-pasta.jpg",
+                "recipe_info": "A simple and flavorful pasta dish with homemade basil pesto.",
+                "ordered": 3800,
+                "ratings": 4.8
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "recipe_picture": "https://example.com/beef-broccoli-stir-fry.jpg",
+                "recipe_info": "A quick and easy Chinese-inspired stir fry with tender beef and broccoli.",
+                "ordered": 2300,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Vegetarian Chili",
+                "recipe_picture": "https://example.com/vegetarian-chili.jpg",
+                "recipe_info": "A hearty and healthy chili recipe packed with beans, vegetables, and spices.",
+                "ordered": 3200,
+                "ratings": 4.7
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Lemon Garlic Shrimp",
+                "recipe_picture": "https://example.com/lemon-garlic-shrimp.jpg",
+                "recipe_info": "A delicious and easy-to-make seafood dish with tangy lemon and garlic flavors.",
+                "ordered": 1800,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 5,
+                "recipe_name": "Baked Ziti",
+                "recipe_picture": "https://example.com/baked-ziti.jpg",
+                "recipe_info": "A classic Italian casserole dish with ziti pasta, meaty tomato sauce, and melted cheese.",
+                "ordered": 3600,
+                "ratings": 4.5
+            },
+            {
+                "recipe_id": 6,
+                "recipe_name": "Banana Bread",
+                "recipe_picture": "https://example.com/banana-bread.jpg",
+                "recipe_info": "A moist and delicious homemade bread recipe made with ripe bananas and warm spices.",
+                "ordered": 2200,
+                "ratings": 4.6
+            }
         ],
         "likes": 8000
     },
